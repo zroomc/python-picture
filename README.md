@@ -20,6 +20,7 @@
 <h4>目录介绍</h4>
 <ui>
     <li>main : 主要代码</li>
+    <li>test : 测试代码</li>
     <li>bugs : 记录开发中问题以及反馈</li>
     <li>Documnets : 架构图以及各种图</li>
     <li>README.md: 简介</li>
